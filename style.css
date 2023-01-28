@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  background-color: #5C92AD;
+}
+header{
+  font-size: 18px;
+  background-color: #5C92AD;
+  text-align: center;
+  
+}
+header img{
+  border-radius: 50%;
+}
+
+nav{
+  font-size: 14px;
+  color: #EFF1F3;
+  text-align: center;
+}
+main{
+  background-color: #EFF1F3;
+  padding: 25px;
+}
+main h2{
+  color: #D77A61;
+  text-align: center;
+}
+footer{
+  color: #D8B4A0;
+  text-align: center;
+  padding: 20px;
+}
+footer img{
+  width: 75px;
+}
